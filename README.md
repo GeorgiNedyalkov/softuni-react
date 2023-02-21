@@ -63,7 +63,3 @@ There is a public part of the application, like **start page** where guest users
 - Deploy your application in a cloud (Heroku, Firebase)
 - **Bonuses depend on the complexity of the implementation**
 - Additional functionality or libraries outside the general requirements, with motivated usage.
-
-# softuni-react
-
-# softuni-react
