@@ -1,0 +1,9 @@
+.navbar {
+    max-width: 80%;
+}
+
+.navbar__list {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
